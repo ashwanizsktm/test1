@@ -1,1 +1,7 @@
 Here we are all the essential command for f=git
+
+1. git clone
+2. create new branch from master.
+git branch branchName.
+
+3. switch branch.
