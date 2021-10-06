@@ -1,5 +1,5 @@
 
-function add(a, b){
+function substract(a, b){
   let c = a - b;
   console.log(c);
 }
