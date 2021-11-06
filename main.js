@@ -3,7 +3,7 @@ function add(a, b){
 }
 
 function substract(a, b){
-  let c = a - b;
-  console.log(c);
+  return a - b;
 }
+
 substract(4, 1);
