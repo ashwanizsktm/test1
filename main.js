@@ -6,6 +6,7 @@ function add(a, b){
 function substract(a, b){
   return a - b;
 }
+
 substract(4, 1);
 
 function multiply(a, b){
