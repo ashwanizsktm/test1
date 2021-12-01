@@ -1,4 +1,6 @@
 function add(a, b){
+
+  // this variable is for addition.
   let c = a + b;
   console.log(c);
 }
@@ -17,4 +19,10 @@ function multiply(a, b){
 
 multiply(4, 1);
 
+function squre(x) {
+  return x*x;
+}
 
+function rectangle(height, width) {
+  return height*width;
+}
