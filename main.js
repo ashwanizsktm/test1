@@ -20,3 +20,7 @@ multiply(4, 1);
 function squre(x) {
   return x*x;
 }
+
+function rectangle(height, width) {
+  return height*width;
+}
