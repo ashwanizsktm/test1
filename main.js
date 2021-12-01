@@ -1,5 +1,6 @@
 function add(a, b){
   let c = a + b;
+  // this console is javascript inbuilt
   console.log(c);
 }
 
