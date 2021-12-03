@@ -1,5 +1,4 @@
 function add(a, b){
-
   // this variable is for addition.
   let c = a + b;
   console.log(c);
