@@ -9,6 +9,7 @@ function substract(a, b){
   console.log(c);
 }
 
+
 substract(4, 1);
 
 function multiply(a, b){

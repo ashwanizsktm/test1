@@ -1,4 +1,4 @@
-Here we are all the essential command for f=git
+Here we are all the essential command for git
 
 1. git clone
 2. create new branch from master.
